@@ -1,0 +1,15 @@
+Ammo ptr:
+
+02C9A540 = Value = 17
+
+02C91834 -> 02C9A540 + 0 = 02C9A540
+
+02C9A764 -> 02C91820 + 14 = 02C91834
+
+ac_client.exe+10F4F4 -> 02C9A3F0 + 374 = 02C9A764
+
+Health ptr:
+
+02A3A5B8 = Value = 100
+
+ac_client.exe+10F4F4 -> 02A3A4C0 + f8 = 02A3A5B8
